@@ -323,26 +323,40 @@ public class Pyramid {
 
 </manifest>
 ```
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## OUTPUT:
 
 
 
 ![E10O2](https://user-images.githubusercontent.com/77089743/173997862-251b5021-5b92-41f7-a2fc-76913c063035.PNG)
-![E10O1](https://user-images.githubusercontent.com/77089743/173997869-7c8922ba-713d-4230-b2fb-6d1fa465d8d3.PNG)
-![E10O3](https://user-images.githubusercontent.com/77089743/173997876-e38efc5a-448d-43a2-b9f5-9ba6095594a3.PNG)
 
 </br>
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
+![E10O1](https://user-images.githubusercontent.com/77089743/173997869-7c8922ba-713d-4230-b2fb-6d1fa465d8d3.PNG)
+![E10O3](https://user-images.githubusercontent.com/77089743/173997876-e38efc5a-448d-43a2-b9f5-9ba6095594a3.PNG)
+
 </br>
 </br>
 </br>
