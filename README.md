@@ -1,5 +1,5 @@
 ### EX NO : 11
-### DATE  : 
+### DATE  : 17/06/2022
 # <p align="center"> Develop an application to draw a shapes using 3D graphics with openGL ES </p>
 
 ## AIM:
